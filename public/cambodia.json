@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "country": "Cambodia",
+    "short_title": "Angkor Wat",
+    "tourist_spot_name": "Angkor Wat",
+    "location": "Angkor Wat",
+    "short_description": "Angkor Wat is a UNESCO World Heritage Site and the largest religious monument in the world, known for its stunning Khmer architecture, intricate bas-reliefs, and ancient temples.",
+    "average_cost": "$250",
+    "seasonality": "Year-round",
+    "travel_time": "2-3 days",
+    "total_visitors_per_year": 2500000,
+    "image": "https://i.ibb.co.com/VxM3Wnn/c1.jpg"
+  },
+  {
+    "id": 2,
+    "country": "Cambodia",
+    "short_title": "Siem Reap",
+    "tourist_spot_name": "Siem Reap",
+    "location": "Siem Reap",
+    "short_description": "Siem Reap is a resort town and the gateway to the Angkor region, known for its vibrant nightlife, bustling markets, and proximity to the Angkor archaeological complex.",
+    "average_cost": "$400",
+    "seasonality": "Year-round",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 6000000,
+    "image": "https://i.ibb.co.com/BjCFtvb/c2.jpg"
+  },
+  {
+    "id": 3,
+    "country": "Cambodia",
+    "short_title": "Phnom Penh",
+    "tourist_spot_name": "Phnom Penh",
+    "location": "Phnom Penh",
+    "short_description": "Phnom Penh is the capital and largest city of Cambodia, known for its rich history, French colonial architecture, and cultural landmarks, including the Royal Palace and Killing Fields.",
+    "average_cost": "$300",
+    "seasonality": "Year-round",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 5000000,
+    "image": "https://i.ibb.co.com/WcHZCw4/c3.jpg"
+  },
+  {
+    "id": 4,
+    "country": "Cambodia",
+    "short_title": "Kep",
+    "tourist_spot_name": "Kep",
+    "location": "Kep",
+    "short_description": "Kep is a coastal town known for its relaxed atmosphere, seafood restaurants, and beautiful beaches, offering a peaceful retreat away from the hustle and bustle of city life.",
+    "average_cost": "$350",
+    "seasonality": "Year-round",
+    "travel_time": "2-3 days",
+    "total_visitors_per_year": 1000000,
+    "image": "https://i.ibb.co.com/Pmtq0k4/c4.jpg"
+  },
+  {
+    "id": 5,
+    "country": "Cambodia",
+    "short_title": "Bokor National Park",
+    "tourist_spot_name": "Bokor National Park",
+    "location": "Bokor National Park",
+    "short_description": "Bokor National Park is a protected area known for its lush rainforests, diverse wildlife, and scenic viewpoints, offering opportunities for hiking, wildlife watching, and nature photography.",
+    "average_cost": "$350",
+    "seasonality": "Year-round",
+    "travel_time": "1-2 days",
+    "total_visitors_per_year": 500000,
+    "image": "https://i.ibb.co.com/R4nHq1z/c5.jpg"
+  }
+]

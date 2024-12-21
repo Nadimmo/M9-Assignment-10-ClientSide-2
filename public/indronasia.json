@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "country": "Indonesia",
+    "image": "https://i.ibb.co.com/pWg97Sv/i1.jpg",
+    "short_title": "Bali",
+    "tourist_spot_name": "Bali",
+    "location": "Bali",
+    "short_description": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs, making it a popular destination for leisure and adventure.",
+    "average_cost": "$250",
+    "seasonality": "Year-round",
+    "travel_time": "4-7 days",
+    "total_visitors_per_year": 10000000
+  },
+  {
+    "id": 2,
+    "country": "Indonesia",
+    "image": "https://i.ibb.co.com/4gxrXKV/i2.jpg",
+    "short_title": "Borobudur Temple",
+    "tourist_spot_name": "Borobudur Temple",
+    "location": "Borobudur Temple",
+    "short_description": "Borobudur Temple is a UNESCO World Heritage Site and one of the largest Buddhist temples in the world, renowned for its intricate architecture and spiritual significance.",
+    "average_cost": "$400",
+    "seasonality": "Year-round",
+    "travel_time": "1-2 days",
+    "total_visitors_per_year": 2000000
+  },
+  {
+    "id": 3,
+    "country": "Indonesia",
+    "image": "https://i.ibb.co.com/JB5Z4RR/i3.jpg",
+    "short_title": "Komodo National Park",
+    "tourist_spot_name": "Komodo National Park",
+    "location": "Komodo National Park",
+    "short_description": "Komodo National Park is famous for its Komodo dragons, the world's largest lizard species, as well as its stunning landscapes, coral reefs, and diverse marine life.",
+    "average_cost": "$300",
+    "seasonality": "Dry season (April to December)",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 500000
+  },
+  {
+    "id": 4,
+    "country": "Indonesia",
+    "image": "https://i.ibb.co.com/5Lx1Zvh/i4.jpg",
+    "short_title": "Raja Ampat Islands",
+    "tourist_spot_name": "Raja Ampat Islands",
+    "location": "Raja Ampat Islands",
+    "short_description": "The Raja Ampat Islands are an archipelago known for their pristine beaches, crystal-clear waters, and vibrant coral reefs, offering unparalleled diving and snorkeling experiences.",
+    "average_cost": "$350",
+    "seasonality": "Dry season (October to April)",
+    "travel_time": "5-7 days",
+    "total_visitors_per_year": 200000
+  },
+  {
+    "id": 5,
+    "country": "Indonesia",
+    "image": "https://i.ibb.co.com/gD2Hg77/i5.jpg",
+    "short_title": "Yogyakarta",
+    "tourist_spot_name": "Yogyakarta",
+    "location": "Yogyakarta",
+    "short_description": "Yogyakarta, often called Jogja, is a city on the island of Java known for its rich Javanese culture, ancient temples, and vibrant arts scene, making it a cultural hub of Indonesia.",
+    "average_cost": "$350",
+    "seasonality": "Year-round",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 3000000
+  }
+]

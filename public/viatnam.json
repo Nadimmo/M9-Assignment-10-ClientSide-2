@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "country": "Vietnam",
+    "short_title": "Ha Long Bay",
+    "tourist_spot_name": "Ha Long Bay",
+    "location": "Ha Long Bay",
+    "short_description": "Ha Long Bay is a UNESCO World Heritage Site known for its emerald waters and thousands of towering limestone islands topped with rainforests.",
+    "average_cost": "$250",
+    "seasonality": "Year-round",
+    "travel_time": "2-3 days",
+    "total_visitors_per_year": 5000000,
+    "image": "https://i.ibb.co.com/5xVQMD1/v1.jpg"
+  },
+  {
+    "id": 2,
+    "country": "Vietnam",
+    "short_title": "Ho Chi Minh City",
+    "tourist_spot_name": "Ho Chi Minh City",
+    "location": "Ho Chi Minh City",
+    "short_description": "Ho Chi Minh City, formerly known as Saigon, is Vietnam's largest city and a bustling metropolis known for its French colonial landmarks, vibrant street life, and bustling markets.",
+    "average_cost": "$400",
+    "seasonality": "Year-round",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 8000000,
+    "image": "https://i.ibb.co.com/194vTht/v2.jpg"
+  },
+  {
+    "id": 3,
+    "country": "Vietnam",
+    "short_title": "Hoi An Ancient Town",
+    "tourist_spot_name": "Hoi An Ancient Town",
+    "location": "Hoi An Ancient Town",
+    "short_description": "Hoi An Ancient Town is a well-preserved example of a Southeast Asian trading port dating back to the 15th century, known for its charming architecture, lantern-lit streets, and traditional wooden houses.",
+    "average_cost": "$300",
+    "seasonality": "Year-round",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 3000000,
+    "image": "https://i.ibb.co.com/pXy4BHT/v3.jpg"
+  },
+  {
+    "id": 4,
+    "country": "Vietnam",
+    "short_title": "Phong Nha Caves",
+    "tourist_spot_name": "Phong Nha Caves",
+    "location": "Phong Nha Caves",
+    "short_description": "Phong Nha Caves is a UNESCO World Heritage Site known for its spectacular limestone karst landscapes and extensive cave systems, including the world's largest cave, Son Doong.",
+    "average_cost": "$350",
+    "seasonality": "Year-round",
+    "travel_time": "2-3 days",
+    "total_visitors_per_year": 1500000,
+    "image": "https://i.ibb.co.com/KbsqNhQ/v4.jpg"
+  },
+  {
+    "id": 5,
+    "country": "Vietnam",
+    "short_title": "Mekong Delta",
+    "tourist_spot_name": "Mekong Delta",
+    "location": "Mekong Delta",
+    "short_description": "The Mekong Delta is a lush, fertile region in southern Vietnam known for its maze of rivers, floating markets, rice paddies, and traditional villages, offering a glimpse into rural Vietnamese life.",
+    "average_cost": "$350",
+    "seasonality": "Year-round",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 4000000,
+    "image": "https://i.ibb.co.com/rmHRP90/v5.jpg"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/zs9NhgR/m2.jpg",
+    "short_title": "Kuala Lumpur",
+    "tourist_spot_name": "Kuala Lumpur",
+    "location": "Kuala Lumpur",
+    "short_description": "Kuala Lumpur, the capital city of Malaysia, is known for its iconic Petronas Twin Towers, bustling street markets, and diverse culinary scene.",
+    "average_cost": "$300",
+    "seasonality": "Year-round",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 12000000
+  },
+  {
+    "id": 2,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/WWZq4ZD/m1.jpg",
+    "short_title": "Langkawi",
+    "tourist_spot_name": "Langkawi",
+    "location": "Langkawi",
+    "short_description": "Langkawi is an archipelago known for its beautiful beaches, lush rainforests, and diverse wildlife, offering opportunities for relaxation and adventure.",
+    "average_cost": "$250",
+    "seasonality": "Dry season (November to April)",
+    "travel_time": "4-7 days",
+    "total_visitors_per_year": 3000000
+  },
+  {
+    "id": 3,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/YfDRpxQ/m3.jpg",
+    "short_title": "Penang",
+    "tourist_spot_name": "Penang",
+    "location": "Penang",
+    "short_description": "Penang is an island state known for its rich history, multicultural heritage, and delectable street food, making it a popular destination for culture and cuisine enthusiasts.",
+    "average_cost": "$200",
+    "seasonality": "Year-round",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 5000000
+  },
+  {
+    "id": 4,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/dQhy8pB/m4.jpg",
+    "short_title": "Cameron Highlands",
+    "tourist_spot_name": "Cameron Highlands",
+    "location": "Cameron Highlands",
+    "short_description": "Cameron Highlands is a hill station renowned for its cool climate, tea plantations, and scenic landscapes, offering a refreshing escape from the city.",
+    "average_cost": "$150",
+    "seasonality": "Year-round",
+    "travel_time": "2-3 days",
+    "total_visitors_per_year": 1500000
+  },
+  {
+    "id": 5,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/Fmv7bt2/m5.jpg",
+    "short_title": "Taman Negara National Park",
+    "tourist_spot_name": "Taman Negara National Park",
+    "location": "Taman Negara National Park",
+    "short_description": "Taman Negara National Park is one of the oldest rainforests in the world, boasting diverse wildlife, thrilling jungle treks, and immersive eco-tourism experiences.",
+    "average_cost": "$400",
+    "seasonality": "Year-round",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 800000
+  }
+]

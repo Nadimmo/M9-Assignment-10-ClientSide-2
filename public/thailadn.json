@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "country": "Thailand",
+    "short_title": "Bangkok",
+    "tourist_spot_name": "Bangkok",
+    "location": "Bangkok",
+    "short_description": "Bangkok, the capital city of Thailand, is known for its vibrant street life, ornate shrines, and bustling markets.",
+    "average_cost": "$250",
+    "seasonality": "Year-round",
+    "travel_time": "5-7 days",
+    "total_visitors_per_year": 22000000,
+    "image": "https://i.ibb.co.com/gy2fQ4P/b1.jpg"
+  },
+  {
+    "id": 2,
+    "country": "Thailand",
+    "short_title": "Chiang Mai",
+    "tourist_spot_name": "Chiang Mai",
+    "location": "Chiang Mai",
+    "short_description": "Chiang Mai is a city in mountainous northern Thailand known for its historic temples, rich culture, and vibrant night markets.",
+    "average_cost": "$400",
+    "seasonality": "Cool season (November to February)",
+    "travel_time": "3-5 days",
+    "total_visitors_per_year": 9000000,
+    "image": "https://i.ibb.co.com/FwqmMTF/b2.jpg"
+  },
+  {
+    "id": 3,
+    "country": "Thailand",
+    "short_title": "Ayutthaya",
+    "tourist_spot_name": "Ayutthaya",
+    "location": "Ayutthaya",
+    "short_description": "Ayutthaya, a UNESCO World Heritage Site, is an ancient city known for its impressive ruins and historical significance.",
+    "average_cost": "$300",
+    "seasonality": "Year-round",
+    "travel_time": "1-2 days",
+    "total_visitors_per_year": 3000000,
+    "image": "https://i.ibb.co.com/10HmPtH/b3.jpg"
+  },
+  {
+    "id": 4,
+    "country": "Thailand",
+    "short_title": "Phuket",
+    "tourist_spot_name": "Phuket",
+    "location": "Phuket",
+    "short_description": "Phuket is Thailand's largest island, known for its stunning beaches, vibrant nightlife, and water sports activities.",
+    "average_cost": "$350",
+    "seasonality": "High season (November to April), Low season (May to October)",
+    "travel_time": "4-7 days",
+    "total_visitors_per_year": 10000000,
+    "image": "https://i.ibb.co.com/DW3prLG/b4.jpg"
+  },
+  {
+    "id": 5,
+    "country": "Thailand",
+    "short_title": "Phi Phi Islands",
+    "tourist_spot_name": "Phi Phi Islands",
+    "location": "Phi Phi Islands",
+    "short_description": "The Phi Phi Islands are famous for their crystal-clear waters, breathtaking landscapes, and vibrant marine life, making them a popular destination for snorkeling and diving enthusiasts.",
+    "average_cost": "$275",
+    "seasonality": "High season (November to April), Low season (May to October)",
+    "travel_time": "2-4 days",
+    "total_visitors_per_year": 4000000,
+    "image": "https://i.ibb.co.com/b3QbGhp/b5.jpg"
+  }
+]
