@@ -10,15 +10,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 // import required modules
 import { EffectFade, Navigation, Pagination } from "swiper/modules";
-
 import { Link, useLoaderData } from "react-router-dom";
-
-import logo from "../../assets/image/cox-bazar.png";
-import logo2 from "../../assets/image/bandarban2.jpg";
-import logo3 from "../../assets/image/ragamati2.jpg";
-import logo4 from "../../assets/image/sentmartin.jpg";
-import logo5 from "../../assets/image/tiger.jpg";
-
 import "./style.css";
 import Cart from "./Cart";
 
@@ -40,31 +32,31 @@ const Home = () => {
           className="mySwiper"
         >
           <SwiperSlide>
-            <img src={logo} className="absolute w-[100%] lg:h-[540px]" />
+            <img src='https://i.ibb.co.com/n632RWz/cox-bazar.png' className="absolute w-[100%] lg:h-[540px]" />
             <h1 className="text-2xl lg:text-6xl text-white font-bold relative  left-[30%] top-[100px] lg:top-[220px] lg:left-[35%]">
               Coox’s Bazar
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={logo2} className="absolute w-[100%] lg:h-[540px]" />
+            <img src='https://i.ibb.co.com/3Y1qVyd/bandarban2.jpg' className="absolute w-[100%] lg:h-[540px]" />
             <h1 className=" text-2xl  lg:text-6xl text-white font-bold relative  left-[30%] top-[100px] lg:top-[220px] lg:left-[35%]">
               Bandarban
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={logo3} className="absolute w-[100%] lg:h-[540px]" />
+            <img src='https://i.ibb.co.com/G5Y9rXL/ragamati2.jpg' className="absolute w-[100%] lg:h-[540px]" />
             <h1 className="text-2xl lg:text-6xl text-white font-bold relative left-[30%] top-[100px] lg:top-[220px] lg:left-[35%]">
               Rangamati
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={logo4} className="absolute w-[100%] lg:h-[540px]" />
-            <h1 className="text-2xl lg:text-6xl text-sky-500 font-bold  relative left-[20%] top-[100px] lg:top-[220px] lg:left-[30%]">
+            <img src='https://i.ibb.co.com/J7dcJ9g/cox.jpg' className="absolute w-[100%] lg:h-[540px]" />
+            <h1 className="text-2xl lg:text-6xl text-white font-bold  relative left-[20%] top-[100px] lg:top-[220px] lg:left-[30%]">
               Saint Martin’s Island
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={logo5} className="relative w-[100%] lg:h-[540px]" />
+            <img src='https://i.ibb.co.com/x2y8b0R/tiger.jpg' className="relative w-[100%] lg:h-[540px]" />
             <h1 className=" text-2xl lg:text-6xl text-white font-bold absolute left-[30%] top-[100px] lg:top-[230px] lg:left-[35%] ">
               Sundarban
             </h1>
