@@ -1,7 +1,6 @@
 import { useContext } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { AuthContext } from "../../AuthProvider/AuthProvider";
-import logo from '../../assets/image/Nadim.jpg'
 const Header = () => {
 
   const {user,logOut} = useContext(AuthContext)
@@ -66,7 +65,7 @@ const handlerLogout = ()=>{
         {
           user?
           <>
-            <img className="w-[50px] h-[50px ] rounded-[50%]" title={user.displayName} src={user?.photoURL || {logo}} alt="" />
+            <img className="w-[50px] h-[50px ] rounded-[50%]" title={user.displayName} src={user?.photoURL || "User"} alt="" />
           <Link onClick={handlerLogout}><a className="btn">Sign out</a></Link>
           </>:
           <Link to={"/login"}><a className="btn">Login</a></Link>
