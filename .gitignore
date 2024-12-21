@@ -25,9 +25,7 @@ AddSpot
 All_Turist_Sport
 PrivateRoute
 ViewDetails
-Update
-MyList
-
+ErrorPage
 
 # Editor directories and files
 .vscode/*
