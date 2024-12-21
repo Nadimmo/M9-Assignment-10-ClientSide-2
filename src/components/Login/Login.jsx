@@ -7,7 +7,6 @@ import { FaGithub } from "react-icons/fa";
 import { FaRegEye, FaEyeSlash } from "react-icons/fa";
 import { AuthContext } from "../../AuthProvider/AuthProvider";
 
-import './style.css'
 const Login = () => {
 
   const [show, setShow] = useState(false);
